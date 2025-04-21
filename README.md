@@ -69,6 +69,9 @@ A demo program that calculates the **n-th Fibonacci number** has been successful
 - Iterative loop with conditional jumps
 - Register swapping and ALU operations
 
----
+![image](https://github.com/user-attachments/assets/f7ae8739-4daa-4c1c-8847-21f310aacd35)
 
-## 🚀 Getting Started
+
+
+
+
